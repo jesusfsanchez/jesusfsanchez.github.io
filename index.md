@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "About Me"
 ---
 
-iam
-file: "JesusSanchez.pdf"
+I am 
