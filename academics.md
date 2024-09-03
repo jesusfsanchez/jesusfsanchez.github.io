@@ -7,6 +7,7 @@ I recently began my Master of Science in Astronautical Engineering at the Univer
 
 ---
 title: "California State University, Northridge (CSUN)"
+layout: page
 ---
 
 I graduated from CSUN in 2024 with a Bachelor's degree in Mechanical Engineering with an emphasis in Aerospace Engineering. Relevant coursework I completed are: 
