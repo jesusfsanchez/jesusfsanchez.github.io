@@ -34,7 +34,7 @@ In addition to my professional experience, I have been actively involved in rese
 
 I am particularly drawn to this role because of the extreme ownership it entails—not only of the Raptor engines but also as part of the broader Starship mission to send humans to Mars. I am confident that my background, skills, and passion align perfectly with the demands of this position, and I am eager to contribute to SpaceX's mission of pushing the boundaries of space exploration. 
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Resume](JesusSanchez.pdf)
 
 
 
