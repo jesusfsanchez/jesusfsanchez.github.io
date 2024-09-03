@@ -8,5 +8,3 @@ I am a graduate student at the University of Southern California pursuing a Mast
 
 
 As an undergrad, I worked as a mechanical engineering intern at NASA Jet Propulsion Laboratory, where I played a key role in the Mars Sample Return mission. As a lead design engineer, I oversaw the development of electromechanical systems from prototype to flight models. I was responsible for generating CAD models, creating engineering drawings, designing for manufacturability and assembly, and collaborating closely with the production team to troubleshoot hardware build issues.
-
-![Resume](JesusSanchez.pdf)
