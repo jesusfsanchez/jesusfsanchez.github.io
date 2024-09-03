@@ -1,18 +1,10 @@
 ---
-layout: page 
-title: "About me" 
+layout: default
+title: "Home"
 ---
 
-I am 
-
----
-title: "section 2"
----
-
-123
-
----
-title: "section 3"
----
-
-456
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
