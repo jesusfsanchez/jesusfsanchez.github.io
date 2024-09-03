@@ -1,6 +1,6 @@
 title: "Jesus Sanchez"
 author: "Jesus F. Sanchez"
-description: "University of Southern California" 
+description: "Jesus F. Sanchez" 
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jesusfsa@usc.edu"}
+  - {title: Mail, icon: envelope, url: "mailto: jesusfsa@usc.edu"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
