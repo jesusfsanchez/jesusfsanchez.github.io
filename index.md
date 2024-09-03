@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Me"
+categories: media
 ---
 
 August 27, 2024 
@@ -32,3 +33,8 @@ As an undergrad, I worked as a mechanical engineering intern at NASA Jet Propuls
 In addition to my professional experience, I have been actively involved in research and student competitions. My research on developing a novel swirl-flame combustor for gas turbine engines has deepened my understanding of fluids, thermodynamics, heat transfer, and Computational Fluid Dynamics (CFD). Furthermore, through student competitions such as NASA MINDS and ASME Human Powered Vehicle, I have gained experience in mechanical design and Finite Element Analysis (FEA). These experiences, coupled with my new graduate coursework and previous studies in Rocket Propulsion, Fluid Dynamics, and Thermodynamics II, equip me with the analytical and technical skills needed to succeed as a Propulsion Development Engineer. 
 
 I am particularly drawn to this role because of the extreme ownership it entails—not only of the Raptor engines but also as part of the broader Starship mission to send humans to Mars. I am confident that my background, skills, and passion align perfectly with the demands of this position, and I am eager to contribute to SpaceX's mission of pushing the boundaries of space exploration. 
+
+![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
+
+
