@@ -1,8 +1,6 @@
 title: "Jesus Sanchez"
 author: "Jesus F. Sanchez"
-description: 
-"Jesus Sanchez"
-"jesusfsa@usc.edu"
+description: "Jesus Sanchez"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
