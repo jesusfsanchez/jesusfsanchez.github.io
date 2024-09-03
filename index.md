@@ -1,10 +1,4 @@
 ---
-layout: page
-title: "About me"
----
-I am 
-
----
 layout: default
 title: "Home"
 ---
