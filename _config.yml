@@ -1,6 +1,7 @@
 title: "Jesus Sanchez"
 author: "Jesus F. Sanchez"
 description: "Jesus F. Sanchez" 
+description: "Jesus Sanchez" 
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
