@@ -9,3 +9,10 @@ The use of hydrogen has attracted great interest due to its favorable combustion
 [Western State Section of the Combustion Institue (WSSCI) Conference Paper](ResearchPaper.pdf)
 
 ![Image2](researchpic.png)
+
+---
+
+## ASME Human Powered Vehicle (HPV) 
+As part of my senior design project, I joined CSUN’s Human Powered Vehicle team. Our team designed, tested, manufactured, and completed a human-powered vehicle. The team consisted of over 20 students divided into 5 subteams. I was part of the fairing subteam which was responsible for the design and fabrication of the fairing structure and attachment components. We competed with other universities and placed 2nd in design and 3rd in the speed race, resulting in 3rd overall placement. 
+
+![Image3](hpv.png)
