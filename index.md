@@ -10,3 +10,5 @@ My name is Jesus Sanchez I have a Bachelor’s degree in Mechanical Engineering 
 
 
 For a quick overview, you can view my resume [here](JesusSanchez.pdf). If you would like to get in touch, you can find my contact information [here](contact.md). 
+
+![Image](MePic1.jpg) 
