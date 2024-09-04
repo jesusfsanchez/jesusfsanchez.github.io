@@ -1,5 +1,5 @@
 ---
-title: "University of Southern California (USC)"
+title: "Academics"
 layout: page
 ---
 
