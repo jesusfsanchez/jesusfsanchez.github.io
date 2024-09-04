@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "About Me"
-categories: media
 ---
 
-I am a graduate student at the University of Southern California pursuing a Master of Science in Astronautical Engineering. I am writing to apply for the Propulsion Development Engineer position at SpaceX. I hold a deep passion for the field of space exploration, specifically in the area of propulsion, and I am excited about the opportunity to contribute my leadership skills, space hardware design expertise, and analysis experience to your team. 
+Hello! 
 
+My name is Jesus Sanchez I have a Bachelor’s degree in Mechanical Engineering and am currently pursuing my Master of Science degree in Astronautical Engineering at the University of Southern California (USC). Throughout my academic and professional journey, I have had the opportunity to work at NASA Jet Propulsion Laboratory (JPL), drive research initiatives, and participate in various engineering competitions. I am excited to share my experiences and achievements which are highlighted on this website. Welcome! 
 
-As an undergrad, I worked as a mechanical engineering intern at NASA Jet Propulsion Laboratory, where I played a key role in the Mars Sample Return mission. As a lead design engineer, I oversaw the development of electromechanical systems from prototype to flight models. I was responsible for generating CAD models, creating engineering drawings, designing for manufacturability and assembly, and collaborating closely with the production team to troubleshoot hardware build issues.
+For a quick overview, you can view my resume [here](JesusSanchez.pdf) and contact me [here](contact.md). 
