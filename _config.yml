@@ -16,19 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-- title: "Academics"
-  url: "/academics/"
-  children:
-    - title: "University of Southern California (USC)"
-      url: "/academics/usc/"
-    - title: "California State University, Northridge (CSUN)"
-      url: "/academics/csun/"
-- title: "Work Experience"
-  url: "/workexp/"
-- title: "Research & Projects"
-  url: "/projects/"
-- title: "Contact Me"
-  url: "/contact/"
+  - {url: "/academics/", title: "Academics"}
+  - {file: "workexp.md", title: "Work Experience"}
+  - {file: "projects.md", title: "Research & Projects"}
+  - {file: "contact.md", title: "Contact Me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto: jesusfsa@usc.edu"}
