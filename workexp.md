@@ -10,4 +10,4 @@ I began my internship at JPL in May 2022 with the Electronic Packaging group whe
 
 I was responsible for generating CAD models using Siemens NX and designed for manufacturability and assembly (DFM & DFA). Using geometric dimensioning and tolerancing (GD&T) I created engineering drawings such as assembly drawings, detailed part drawings, and interface-controlled drawings. I produced written instructions for build, assembly, and test to communicate with the fabrication team and collaborated closely to troubleshoot hardware build issues. 
 
-![Image1](jpl.jpg)
+![Image1](jpl.png)
