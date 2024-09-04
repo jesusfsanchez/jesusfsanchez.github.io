@@ -12,5 +12,5 @@ I was responsible for generating CAD models using Siemens NX and designed for ma
 
 <div style="display: flex; justify-content: center; gap: 5px;">
   <img src="RoverPic.jfif" alt="Image 1" width="300">
-  <img src="NASAPic.jfif" alt="Image 2" width="200">
+  <img src="NASAPic.jfif" alt="Image 2" width="600">
 </div>
