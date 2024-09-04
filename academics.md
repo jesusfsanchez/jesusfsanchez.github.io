@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Academics"
+---
 
 <div class="content">
 
