@@ -16,29 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-<ul>
-  {% for item in site.data.navigation %}
-    <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>
-      {% if item.children %}
-        <ul>
-          {% for child in item.children %}
-            <li><a href="{{ child.url }}">{{ child.title }}</a></li>
-            - title: "Academics"
-            url: "/academics/"
+  - title: "Academics"
+    url: "/academics/"
     children:
-      - title: "Courses"
-        url: "/academics/courses/"
-      - title: "Faculty"
-        url: "/academics/faculty/"
-      - title: "Research"
-        url: "/academics/research/"
-          {% endfor %}
-        </ul>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+      - title: "University of Southern California (USC)"
+        url: "/academics/usc/"
+      - title: "California State University, Northridge (CSUN)"
+        url: "/academics/csun/"
   - {file: "workexp.md", title: "Work Experience"}
   - {file: "projects.md", title: "Research & Projects"}
   - {file: "contact.md", title: "Contact Me"}
