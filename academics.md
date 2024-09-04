@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-{%- assign pages = paginator.pageacademics | default: site.pages -%}
+{%- assign pages = paginator.pageacademics}
 {% for page in pages %}
   <article>
     {{ page.excerpt }}
