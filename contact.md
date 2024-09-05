@@ -13,12 +13,10 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
   
 </div>
 
-<h2>Code Snippet</h2>
 
 <div style="position: relative;">
   <textarea id="codeSnippet" style="width: 100%; height: 100px;">
-  // Your code goes here
-  console.log('Hello, World!');
+  
   </textarea>
   <button onclick="copyToClipboard()">Copy</button>
 </div>
