@@ -15,6 +15,8 @@ For a quick overview, you can view my resume [here](JesusSanchez.pdf). If you wo
   <img src="MePic1.jpg" alt="Image" style="width: 65%;">
 </div>
 
+[Academics](academics.md)  [Work Experience](workexp.md)  [Research & Projects](projects.md)
+
 <div style="text-align: center;">
   
   <h2><a href="academics.md">Academics</a></h2>
