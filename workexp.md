@@ -12,4 +12,6 @@ I was responsible for generating CAD models using Siemens NX and designed for ma
 
 ![Image1](jpl.png)
 
-[Return Home](index.md)
+<div style="text-align: right;">
+  <a href="/index/">Return Home</a>
+</div>
