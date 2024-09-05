@@ -22,3 +22,7 @@ I graduated from CSUN in 2024 with a Bachelor's degree in Mechanical Engineering
 - Mechanical Design I, II, III: CAD, machine design, and senior design project (see [Projects](projects.md))
 
 During my time at CSUN, I was actively involved in several organizations, including the American Society of Mechanical Engineers ([ASME](https://asmecsun.wordpress.com/)), the Society of Hispanic Professional Engineers ([SHPE](https://shpe.org/about-shpe/)), and the Tau Beta Pi ([TBP](https://www.tbp.org/recruit/recruitHome.cfm)) engineering honors club. In the 2022-2023 academic year, I served as the Secretary for ASME and the Corresponding Secretary for TBP. Additionally, while at CSUN I was awarded multiple scholarships, including one of the university's most prestigious award, the University Scholarship. 
+
+<div style="text-align: right;">
+  Return [Home](index.md)
+</div>
