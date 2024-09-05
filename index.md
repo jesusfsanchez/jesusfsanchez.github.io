@@ -3,7 +3,7 @@ layout: page
 title: "About Me"
 ---
 
-Hello and Welcome! 
+Hello and welcome! 
 
 My name is Jesus Sanchez I have a Bachelor’s degree in Mechanical Engineering and am currently pursuing my Master of Science degree in Astronautical Engineering at the University of Southern California (USC). Throughout my academic and professional journey, I have had the opportunity to work at NASA Jet Propulsion Laboratory (JPL), drive research initiatives, and participate in various engineering competitions. I am excited to share my experiences and achievements which are highlighted on this website. 
 
