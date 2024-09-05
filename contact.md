@@ -15,7 +15,7 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
 
 <div style="position: relative;">
-  <button onclick="copyToClipboard(jesus)">Copy</button>
+  <button onclick="copyToClipboard('jesus')">Copy</button>
 </div>
 
 <script>
