@@ -15,8 +15,9 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
 
 <div style="position: relative;">
+  <input type="text" id="hiddenInput" value="console.log('Hello, World!');" style="position: absolute; left: -9999px;">
   <button 
-    onclick="copyToClipboard('jesus')"
+    onclick="copyToClipboard()"
     class="copy-button"
     style="background-color: #4CAF50"
   >
@@ -25,11 +26,12 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 </div>
 
 <script>
-  function copyTextToClipboard(text) {
-    navigator.clipboard.writeText(text).then(function() {
-      alert("Copied to clipboard: " + text);
-    }).catch(function(err) {
-      console.error("Failed to copy text: ", err);
-    });
+  function copyToClipboard() {
+    var copyText = document.getElementById("hiddenInput");
+    copyText.select();
+    copyText.setSelectionRange(0, 99999); // For mobile devices
+    document.execCommand("copy");
+    alert("Copied the text: " + copyText.value);
   }
 </script>
+
