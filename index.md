@@ -16,7 +16,11 @@ For a quick overview, you can view my resume [here](JesusSanchez.pdf). If you wo
 </div>
 
 <div style="text-align: center;">
+  
   <h2><a href="academics.md">Academics</a></h2>
+  
   <h2><a href="workexp.md">Work Experience</a></h2>
+  
   <h2><a href="projects.md">Research & Projects</a></h2>
+  
 </div>
