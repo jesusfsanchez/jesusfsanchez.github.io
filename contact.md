@@ -20,12 +20,6 @@ LinkedIn:
 </style>
 
 
-<a href="https://www.linkedin.com/in/jesus-sanchez1" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn Profile" width="40" height="40">
-</a>
-
-
-
 <div style="text-align: right;">
   
   <a href="/index">Return Home</a>
