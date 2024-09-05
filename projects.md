@@ -27,7 +27,5 @@ Our team participated in the NASA MINDS competition, where students propose inno
 ![Image4](minds2021.png)
 
 <div style="text-align: right;">
-  
   <a href="/index">Return Home</a>
-  
 </div>
