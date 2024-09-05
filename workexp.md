@@ -8,7 +8,7 @@ The [Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/) is a leading NA
 
 I began my internship at JPL in May 2022 with the Electronic Packaging group where I played a key role in the [Mars Sample Return (MSR)](https://science.nasa.gov/mission/mars-sample-return/) mission. I began by working on ground support equipment (GSE) and developing a tool capable of assembling sensitive electromechanical hardware for the Earth Return Orbiter (ERO). Subsequently, I led the design of an electromechanical unit for the Sample Retrieval Lander (SRL). As a lead designer, I oversaw the development of the system from prototype to engineering and flight models. 
 
-I was responsible for generating CAD models using Siemens NX and designed for manufacturability and assembly (DFM & DFA). Using geometric dimensioning and tolerancing (GD&T) I created engineering drawings such as assembly drawings, detailed part drawings, and interface-controlled drawings. I produced written instructions for build, assembly, and test to communicate with the fabrication team and collaborated closely to troubleshoot hardware build issues. 
+I was responsible for generating CAD models on Siemens NX and created engineering drawings with Geometric Dimensioning and Tolerancing (GD&T) such as detailed part drawings, assembly drawings, and interface-controlled drawings. I authored detailed written procedures and assembly instructions, ensuring smooth fabrication and successful system integration. Additionally, I collaborated with the production team to troubleshoot hardware build issues and enhance designs for manufacturability and assembly (DFM & DFA). 
 
 ![Image1](jpl.png)
 
