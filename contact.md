@@ -7,8 +7,8 @@ Email: [jesusfsa@usc.edu](mailto:jesusfsa@usc.edu)
 
 LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
-<div style="text-align: center;">
+<div style="text-align: right;">
   
-  <a href="/index">Return Home 4</a>
+  <a href="/index">Return Home</a>
   
 </div>
