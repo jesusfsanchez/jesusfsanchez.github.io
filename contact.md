@@ -15,7 +15,7 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
 
 <div style="position: relative;">
-  <input type="text" id="hiddenInput" value="'Hello, World!';" style="position: absolute; left: -9999px;">
+  <input type="text" id="hiddenInput" value="Hello, World!" style="position: absolute; left: -9999px;">
   <button 
     onclick="copyToClipboard()"
     class="copy-button"
