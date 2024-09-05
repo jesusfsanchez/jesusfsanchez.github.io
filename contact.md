@@ -16,7 +16,7 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
 <div style="position: relative;">
   <button 
-    onclick="copyTextToClipboard('console.log(\'Hello, World!\');')"
+    onclick="copyTextToClipboard('jesusfsa@usc.edu');')"
     class="copy-button"
   >
     Copy
