@@ -25,3 +25,7 @@ Our team participated in the NASA MINDS competition, where students propose inno
 [NASA MINDS 2021 Systems Engineering Report](NASAMINDS_2021.pdf)
 
 ![Image4](minds2021.png)
+
+<div style="text-align: right;">
+  <a href="/index/">Return Home</a>
+</div>
