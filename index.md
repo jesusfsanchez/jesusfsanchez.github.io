@@ -22,5 +22,7 @@ For a quick overview, you can view my resume [here](JesusSanchez.pdf). If you wo
   <h2><a href="workexp">Work Experience</a></h2>
   
   <h2><a href="projects">Research & Projects</a></h2>
+
+  <h2><a href="contact">Contact Me</a></h2>
   
 </div>
