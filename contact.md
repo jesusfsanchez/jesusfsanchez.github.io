@@ -15,10 +15,7 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
 
 <div style="position: relative;">
-  <textarea id="codeSnippet" style="width: 100%; height: 100px;">
-  
-  </textarea>
-  <button onclick="copyToClipboard()">Copy</button>
+  <button onclick="copyToClipboard(jesus)">Copy</button>
 </div>
 
 <script>
