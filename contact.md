@@ -16,8 +16,9 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
 <div style="position: relative;">
   <button 
-    onclick="copyTextToClipboard('jesus');')"
+    onclick="copyToClipboard('jesus')"
     class="copy-button"
+    style="background-color: #4CAF50"
   >
     Copy
   </button>
