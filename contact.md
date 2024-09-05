@@ -15,15 +15,20 @@ LinkedIn: [Jesus Sanchez](https://www.linkedin.com/in/jesus-sanchez1/)
 
 
 <div style="position: relative;">
-  <button onclick="copyToClipboard('jesus')">Copy</button>
+  <button 
+    onclick="copyTextToClipboard('console.log(\'Hello, World!\');')"
+    class="copy-button"
+  >
+    Copy
+  </button>
 </div>
 
 <script>
-  function copyToClipboard() {
-    var copyText = document.getElementById("codeSnippet");
-    copyText.select();
-    copyText.setSelectionRange(0, 99999); // For mobile devices
-    document.execCommand("copy");
-    alert("Copied the text: " + copyText.value);
+  function copyTextToClipboard(text) {
+    navigator.clipboard.writeText(text).then(function() {
+      alert("Copied to clipboard: " + text);
+    }).catch(function(err) {
+      console.error("Failed to copy text: ", err);
+    });
   }
 </script>
