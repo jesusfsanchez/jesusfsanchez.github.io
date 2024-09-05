@@ -12,14 +12,14 @@ The use of hydrogen has attracted great interest due to its favorable combustion
 
 ---
 
-## ASME Human Powered Vehicle (HPV) 
+# ASME Human Powered Vehicle (HPV) 
 As part of my senior design project, I joined CSUN’s Human Powered Vehicle team. Our team designed, tested, manufactured, and completed a human-powered vehicle. The team consisted of over 20 students divided into 5 subteams. I was part of the fairing subteam which was responsible for the design and fabrication of the fairing structure and attachment components. We competed with other universities and placed 2nd in design and 3rd in the speed race, resulting in 3rd overall placement. 
 
 ![Image3](hpv.png)
 
 ---
 
-### NASA MINDS 2021 Autonomous Sensor Robot 
+# NASA MINDS 2021 Autonomous Sensor Robot 
 Our team participated in the NASA MINDS competition, where students propose innovative projects to support the Artemis mission. We designed an autonomous robot capable of performing nondestructive testing (NDT) on spacecraft bodies. The robot was engineered to traverse 90-degree surfaces, enabling it to inspect internal damage in composite materials, such as delamination and disbanding. Competing against teams from over 25 colleges, we secured 3rd place overall and 2nd place in the systems engineering report category.
 
 [NASA MINDS 2021 Systems Engineering Report](NASAMINDS_2021.pdf)
