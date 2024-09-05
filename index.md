@@ -14,3 +14,9 @@ For a quick overview, you can view my resume [here](JesusSanchez.pdf). If you wo
 <div style="text-align: center;">
   <img src="MePic1.jpg" alt="Image" style="width: 65%;">
 </div>
+
+# [Academics](academics.md)
+
+# [Work Experience](workexp.md)
+
+# [Research & Projects](projects.md)
