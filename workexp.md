@@ -10,6 +10,8 @@ I began my internship at JPL in May 2022 with the Electronic Packaging group whe
 
 I was responsible for generating CAD models on Siemens NX and created engineering drawings with Geometric Dimensioning and Tolerancing (GD&T) such as detailed part drawings, assembly drawings, and interface-controlled drawings. I authored detailed written procedures and assembly instructions, ensuring smooth fabrication and successful system integration. Additionally, I collaborated with the production team to troubleshoot hardware build issues and enhance designs for manufacturability and assembly (DFM & DFA). 
 
+Technical Skills: Siemens NX, Teamcenter, GD&T, tolerance analysis, hand calculations 
+
 ![Image1](jpl.png)
 
 <div style="text-align: right;">
