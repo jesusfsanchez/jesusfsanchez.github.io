@@ -19,6 +19,8 @@ As part of my senior design project, I joined CSUN’s Human Powered Vehicle tea
 
 Technical Skills: Ansys Fluent, SOLIDWORKS, SOLIDWORKS Simulations (FEA) 
 
+[Human Powered Vehicle (HPV) Report](HPVreport.pdf)
+
 ![Image3](hpv.png)
 
 ---
