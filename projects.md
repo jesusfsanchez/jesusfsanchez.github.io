@@ -25,12 +25,12 @@ Technical Skills: Ansys Fluent, SOLIDWORKS, SOLIDWORKS Simulations (FEA), hand c
 
 ---
 
-# NASA MINDS 2021 Autonomous Sensor Robot 
-Our team participated in the NASA MINDS competition, where students propose innovative projects to support the Artemis mission. We designed an autonomous robot capable of performing nondestructive testing (NDT) on spacecraft bodies. The robot was engineered to traverse 90-degree surfaces, enabling it to inspect internal damage in composite materials, such as delamination and disbanding. Competing against teams from over 25 colleges, we secured 3rd place overall and 2nd place in the systems engineering report category.
+# NASA MINDS Autonomous Sensor Robot 
+As participants in the NASA MINDS competition, our team proposed an autonomous robot designed to support the Artemis mission by conducting nondestructive testing (NDT) on spacecraft bodies. The robot was engineered to traverse 90-degree surfaces, allowing for internal inspection of composite materials, such as detecting delamination and disbanding. Competing against teams from over 25 colleges, we placed 3rd overall and earned 2nd place in the systems engineering report category.
 
 Technical Skills: SOLIDWORKS, SOLIDWORKS Simulations (FEA) 
 
-[NASA MINDS 2021 Systems Engineering Report](NASAMINDS_2021.pdf)
+[NASA MINDS Systems Engineering Report](NASAMINDS_2021.pdf)
 
 ![Image4](minds2021.png)
 
