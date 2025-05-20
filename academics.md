@@ -9,7 +9,7 @@ I am currently pursuing my Master of Science degree in Aerospace Engineering at 
 - Fundamentals and Applications of Combustion: Chemical thermodynamics, chemical kinetics, transport phenomena, conservation equations, non-premixed, premixed flames, Cantera, and Finite Difference Method (FDM) project
 - Spacecraft Design: Space environment, orbital mechanics, attitude determination and control, communications, power systems, thermal control, structures and mechanisms
 - Compressible Gas Dynamics: Shocks, expansions, Rayleigh flow, Fanno flow, unsteady wave motion, linearized potential theory, and CFD project
-- Partial Differential Equations: PDE’s (elliptic, parabolic, hyperbolic) in cartesian, cylindrical, spherical coordinates and time dependant
+- Partial Differential Equations: Solving PDE’s (elliptic, parabolic, hyperbolic) in cartesian, cylindrical, spherical coordinates and time dependant
 
 ---
 
