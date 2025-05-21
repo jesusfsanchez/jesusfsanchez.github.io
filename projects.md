@@ -3,8 +3,12 @@ title: "Research & Projects"
 layout: page 
 ---
 
-# Liquid Propulsion Laboratory (LPL) 
-Coming up! 
+# Liquid Propulsion Laboratory (LPL) — Regeneratively Cooled Liquid Rocket Engine
+At USC’s LPL, I worked on the design and testing of a regeneratively cooled 3 kN Jet-A/LOX rocket engine, with responsibilities spanning detailed design, thermal analysis, CFD, and FEA for the development of the injector, thrust chamber and nozzle.
+
+Technical skills: Ansys Fluent, Ansys Mechanical, MATLAB, Siemens NX, GD&T
+
+![Image5](LPL_picture.png)
 
 ---
 
