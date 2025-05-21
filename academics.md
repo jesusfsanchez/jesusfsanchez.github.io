@@ -3,9 +3,9 @@ title: "Academics"
 layout: page
 ---
 
-# University of Southern California (USC)
+# M.S. Aerospace Engineering — University of Southern California (USC)
 
-I am currently pursuing my Master of Science degree in Aerospace Engineering at USC. Relevant coursework: 
+Relevant coursework: 
 - Fundamentals and Applications of Combustion: Chemical thermodynamics, chemical kinetics, transport phenomena, conservation equations, non-premixed, premixed flames, Cantera, and Finite Difference Method (FDM) project
 - Spacecraft Design: Space environment, orbital mechanics, attitude determination and control, communications, power systems, thermal control, structures and mechanisms
 - Compressible Gas Dynamics: Shocks, expansions, Rayleigh flow, Fanno flow, unsteady wave motion, linearized potential theory, and CFD project
@@ -13,9 +13,9 @@ I am currently pursuing my Master of Science degree in Aerospace Engineering at 
 
 ---
 
-## California State University, Northridge (CSUN) 
+## B.S. Mechanical Engineering — California State University, Northridge (CSUN) 
 
-I graduated from CSUN in 2024 with a Bachelor's degree in Mechanical Engineering with an emphasis in Aerospace Engineering. Relevant coursework: 
+Relevant coursework: 
 - Rocket Propulsion: Orbital mechanics, staging, heat transfer, nozzles, liquid & solid propulsion, and combustion 
 - Aeropropulsion: Turbojets, ramjets, scramjets, cycle analysis, nozzles, compressors & turbines, and shock waves 
 - Thermodynamics I & II: Power cycles, heat and refrigeration systems, chemically reacting mixtures 
